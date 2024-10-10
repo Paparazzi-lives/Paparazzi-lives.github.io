@@ -108,7 +108,7 @@ const profileData = {
       alma: "NURSING AND MIDWIFERY TRAINING COLLEGE",
       duration: "AUG 2012 to NOV 2014",
       std: "Registered Nurse Assistat",
-      score: "80.25%",
+      score: "75.25%",
     },
     
   ],
