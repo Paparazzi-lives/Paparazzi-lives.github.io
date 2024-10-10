@@ -96,10 +96,10 @@ const profileData = {
       desc: `Configured and set up monitoring tools such as Nagios, Zabbix, and CheckMK on a Linux server to monitor my servers and services (Grafana and Prometheus are next)`,
     },
     {
-      title: "Configured an automated CI/CD pipeline using Jenkins for continuous integration with Maven (mvn goals) for build automation, integrated SonarQube for code quality scanning, Nexus for artifact storage, and deployed to Apache Tomcat, while implementing webhooks to trigger the pipeline upon source code updates in GitHub:",
+      title: "Automated CI/CD Pipeline with Real-Time Slack Notifications:",
       duration: "2022",
       link: "",
-      desc: `Integrated Slack to send real-time notifications upon the execution of the CI/CD pipeline, ensuring immediate updates on the process status.`,
+      desc: `Configured an automated CI/CD pipeline using Jenkins for continuous integration, utilizing Maven (mvn goals) for build automation. Integrated SonarQube for code quality scanning and Nexus for artifact storage, followed by deployment to Apache Tomcat. Implemented webhooks to automatically trigger the pipeline upon source code updates in GitHub, and integrated Slack to send real-time notifications, ensuring immediate updates on the pipeline execution status.`,
     },
    
   ],
@@ -108,7 +108,7 @@ const profileData = {
       alma: "NURSING AND MIDWIFERY TRAINING COLLEGE",
       duration: "AUG 2012 to NOV 2014",
       std: "Registered Nurse Assistat",
-      score: "88.25%",
+      score: "80.25%",
     },
     
   ],
