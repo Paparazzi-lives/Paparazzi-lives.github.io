@@ -61,7 +61,7 @@ const profileData = {
     {
       organization: "Jomacs",
       title: `<strong>Linux Systems Administrator</strong> `,
-      date: "April 2021 to Current",
+      date: "April 2020 to Current",
       details: [
         `Installed, configured, and <strong>maintained Linux servers</strong> for high availability and reliability.`,
         `Administered user accounts, groups, and file system permissions.`,
@@ -105,7 +105,7 @@ const profileData = {
   ],
   education: [
     {
-      alma: "NURSING AND MIDWIFERY TRAINING COLLEGE",
+      alma: "NURSING AND MIDWIFERY TRAINING COLLEGE - SUNYANI",
       duration: "AUG 2012 to NOV 2014",
       std: "Registered Nurse Assistat",
       score: "75.25%",
