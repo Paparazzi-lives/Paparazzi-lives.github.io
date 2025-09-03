@@ -1,4 +1,4 @@
-/* Define all the functions */
+/* Define all the functions used */
 const setTitle = (data) => {
   // Set page title
   document.title = `${data.title} | ${data.name}`;
